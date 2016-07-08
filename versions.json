@@ -1,0 +1,11 @@
+{
+	"homepage": "",
+	"promos": {
+		"1.9.4-latest": "0.0.1",
+		"1.9.4-recommended": "0.0.1",
+		"1.10.2-latest": "0.0.1",
+		"1.10.2-recommended": "0.0.1"
+	},
+	"1.9.4": {"0.0.1": "Alpha Build"},
+	"1.10.2": {"0.0.1": "Alpha Build"}
+}
