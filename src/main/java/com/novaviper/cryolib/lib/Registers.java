@@ -307,7 +307,7 @@ public class Registers {
 	public static void addRecipe(ItemStack output, Object... params) {
 		GameRegistry.addRecipe(output, params);
 	}
-	
+
 	/**
 	 * Registers a Shapeless recipe - a recipe that does not have a specific arrangement in order to produce the result
 	 *
