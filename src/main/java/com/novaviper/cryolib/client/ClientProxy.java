@@ -7,8 +7,9 @@ import net.minecraftforge.fml.common.event.*;
 import net.minecraftforge.fml.common.network.simpleimpl.MessageContext;
 
 /**
- *
  * @author NovaViper <nova.gamez15@gmail.com>
+ * @date 7/10/2016
+ * @purpose Loads stuff on the client side
  */
 public class ClientProxy extends CommonProxy {
 
