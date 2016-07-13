@@ -1,0 +1,7 @@
+﻿language.name=English
+language.region=US
+language.code=en_US
+
+#Strings
+string.cryolib.commandSeparator=--------------------------------------------------
+string.cryolib.commandSeparatorPart=----
